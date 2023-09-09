@@ -20,7 +20,6 @@ mmcv==1.3.8
 Pillow==8.3.1
 
 
-
 ## Dataset
 Our dataset is a subset of the [DDD17: DAVIS Driving Dataset](http://sensors.ini.uzh.ch/news_page/DDD17.html). This original dataset do not provide any semantic segmentation label, we provide them as well as some modification of the event images.
 
