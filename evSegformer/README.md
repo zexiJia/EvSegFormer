@@ -27,7 +27,7 @@ Our dataset is a subset of the [DDD17: DAVIS Driving Dataset](http://sensors.ini
 
 [Download it here](https://drive.google.com/open?id=1Ug6iZc7WYQWCklxwcemCeyw3CPyuuxJf)
 
-(It appears that EvSegNet has recently removed the related project from GitHub, and the data link is no longer valid. (https://github.com/uzh-rpg/DSEC) can be a new choice for training.)
+(It appears that EvSegNet has recently removed the related project from GitHub, and the data link is no longer valid. https://github.com/uzh-rpg/DSEC can be a new choice for training.)
 
 
 The semantic segmentation labels of the data are:
