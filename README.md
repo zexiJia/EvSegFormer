@@ -65,7 +65,7 @@ python eval.py
 
 ## Pretrained Model
 
-We provide a [pretrained weight](https://drive.google.com/file/d/1oWUfKo_u7sqBM5aBYdd1Pibst4boBJWa/view?usp=share_link) for directly test or finetune in downstream application
+We provide a [pretrained weight](https://drive.google.com/file/d/1oWUfKo_u7sqBM5aBYdd1Pibst4boBJWa/view?usp=share_link) for directly test or finetuning in downstream application
 
 
 ## Get new labels
