@@ -55,7 +55,7 @@ Train
 ```
 python dist_train.py
 ```
-test
+Test
 ```
 python eval.py
 ```
