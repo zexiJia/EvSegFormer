@@ -50,15 +50,12 @@ The semantic segmentation labels of the data are:
 flat:0, construction+sky:1, object:2,  nature:3,  human:4, vehicle:5, ignore_labels:255
 
 
-## train
-
+## Get Start
+Train
 ```
 python dist_train.py
 ```
-
-## test
-
-
+test
 ```
 python eval.py
 ```
